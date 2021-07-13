@@ -1,0 +1,6 @@
+print("hello python")
+print("hello","python")
+print('hello' ,'python')
+print('hello', 'python')
+print(100+200)
+print("100+200=",100+200)
